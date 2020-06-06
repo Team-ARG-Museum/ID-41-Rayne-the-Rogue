@@ -1,4 +1,4 @@
-#Rayne the Rogue Deluxe
+# Rayne the Rogue Deluxe
 
 
 Rayne the Rogue Deluxe: http://www.team-arg.org/rtrd-manual.html  
